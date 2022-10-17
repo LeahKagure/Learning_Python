@@ -1,7 +1,7 @@
 **Python programming for the Absolute Beginner**
 
 This is a repository that contains projects coded using Python for step-by-step learning of the language's fundamentals.
-The directories are chapters in the book and contain the codes for the specifi chapters.
+The directories are chapters in the book and contain the codes for the specific chapters.
 
 **Chapters**
 1. `Getting Started: The Game Over Program`
